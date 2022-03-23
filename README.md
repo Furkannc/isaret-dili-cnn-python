@@ -1,4 +1,4 @@
-#python dili kullanarak cnn tabanlı işaret dili modeli ve kullanımı
+**Python dili kullanarak cnn tabanlı işaret dili modeli ve kullanımı**
 
 Examples:
 
